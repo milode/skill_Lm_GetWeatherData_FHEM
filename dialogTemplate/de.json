@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_GetWeatherData_FHEM",
+    "icon": "time",
+    "description": "Erz\u00e4hlt die aktuellen wettermesswerte",
+    "slotTypes": [],
+    "intents": []
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Lm_GetWeatherData_FHEM",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "milode",
+    "maintainers": [],
+    "desc": "Erz\u00e4hlt die aktuellen wettermesswerte",
+    "aliceMinVersion": "1.0.0-b1",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        ""
+    ],
+    "conditions": {
+        "lang": [
+            "en",
+            "de"
+        ],
+        "asrArbitraryCapture": true
+    }
+}
